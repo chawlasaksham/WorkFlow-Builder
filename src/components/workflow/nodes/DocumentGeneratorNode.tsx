@@ -1,0 +1,24 @@
+import React from 'react';
+import { Handle, Position } from '@xyflow/react';
+import { FileText } from 'lucide-react';
+import { BaseNode } from './BaseNode';
+
+export const DocumentGeneratorNode = ({ data, selected, id }) => {
+  return (
+    <BaseNode
+      icon={FileText}
+      label={data.label || 'Document Generator'}
+      status={data.status}
+      color="bg-green-400"
+      selected={selected}
+      nodeId={id}
+      data={data}
+      enabled={data.enabled}
+      executionTime={data.executionTime}
+      lastExecuted={data.lastExecuted}
+    >
+      <Handle type="target" position={Position.Left} className="w-3 h-3" />
+      <Handle type="source" position={Position.Right} className="w-3 h-3" />
+    </BaseNode>
+  );
+}; 
