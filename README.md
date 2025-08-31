@@ -1,5 +1,15 @@
 # Node Craft Workflow Builder
 
+### Deployed Link
+
+You can visit the live version of the app here:  
+[**Node Craft Workflow Builder Live**](work-flow-builder-iv7i60snb-chawlasakshams-projects.vercel.app)
+
+**Login Credentials:**
+
+- **Username:** sysadmin  
+- **Password:** test3
+
 ## Project Info
 
 A powerful **visual workflow builder** inspired by [n8n](https://n8n.io), built with React, TypeScript, and modern web technologies.
