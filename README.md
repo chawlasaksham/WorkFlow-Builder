@@ -1,20 +1,19 @@
 # Node Craft Workflow Builder
 
-**Made by Ayush**
+## Project Info
 
-## Project info
+A powerful **visual workflow builder** inspired by [n8n](https://n8n.io), built with React, TypeScript, and modern web technologies.
 
-A powerful visual workflow builder built with React, TypeScript, and modern web technologies.
+## How Can I Edit This Code?
 
-## How can I edit this code?
+### Using your preferred IDE
 
-**Use your preferred IDE**
+Clone this repository and make changes locally using your IDE of choice.
 
-You can clone this repo and push changes locally using your preferred IDE.
+Requirements:
+- Node.js & npm installed – [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
+Steps:
 
 ```sh
 # Step 1: Clone the repository using the project's Git URL.
@@ -26,9 +25,8 @@ cd <YOUR_PROJECT_NAME>
 # Step 3: Install the necessary dependencies.
 npm i
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+# Step 4: Start the development server with auto-reloading and instant preview.
 npm run dev
-```
 
 **Edit a file directly in GitHub**
 
