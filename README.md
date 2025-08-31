@@ -3,7 +3,7 @@
 ### Deployed Link
 
 You can visit the live version of the app here:  
-[**Node Craft Workflow Builder Live**](work-flow-builder-iv7i60snb-chawlasakshams-projects.vercel.app)
+[**Node Craft Workflow Builder Live**](https://work-flow-builder-red.vercel.app/login)
 
 **Login Credentials:**
 
